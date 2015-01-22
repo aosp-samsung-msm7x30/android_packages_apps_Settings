@@ -17,6 +17,12 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
         android:title="@string/about_settings">
 
+        <!-- Devices and Maintainers -->
+        <PreferenceScreen
+                android:key="devices"
+                android:title="@string/device_maintainers_title"
+                android:fragment="com.android.settings.aosp.Devices" />
+
         <!-- Device status - launches activity -->
         <PreferenceScreen android:key="status_info"
                 android:title="@string/device_status" 

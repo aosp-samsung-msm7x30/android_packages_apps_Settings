@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+     Copyright (C) 2015 ABIP Android
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Phone brand -->
+    <string name="device_category_google_title">GOOGLE</string>
+    <string name="device_category_sony_title">SONY</string>
+    <string name="device_category_samsung_title">SAMSUNG</string>
+    <string name="device_category_lg_title">LG</string>
+    <string name="device_category_htc_title">HTC</string>
+    <string name="device_category_motorola_title">MOTOROLA</string>
+    <string name="device_category_oneplus_title">ONE PLUS</string>
+
+    <!-- Devices and Maintainers -->
+    <string name="device_maintainers_title">Devices and Maintainers</string>
+    <string name="device_maintainers_title_summary">List of devices and their crDroid ROM maintainers</string>
+    <string name="device_samsung_ariesve">Galaxy S Plus</string>
+    <string name="device_samsung_ariesve_summary">I9001 \nMaintainer - K_TECH</string>
+    <string name="device_samsung_ancora">Galaxy W</string>
+    <string name="device_samsung_ancora_summary">I8150 \nMaintainer - K_TECH</string>
+
+</resources>
