@@ -79,5 +79,12 @@
 
     <color name="wifi_divider">#ffe0e0e0</color>
     <color name="sim_noitification">@*android:color/material_deep_teal_500</color>
+    
+    <color name="wifi_assistant_color_accent">#ff009587</color>
 
+    <!-- Layers -->
+    <color name="exposed_datachartfillcolor">#ff009688</color>
+    <color name="exposed_datachartfillcolor_secondary">#ff80cbc4</color>
+    <color name="exposed_data_limit_chart_labelcolor">#ff37474f</color>
+    <color name="exposed_data_warning_chart_labelcolor">#fff4511e</color>
 </resources>
