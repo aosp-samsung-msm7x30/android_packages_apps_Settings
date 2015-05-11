@@ -29,7 +29,7 @@
 
     <!-- Devices and Maintainers -->
     <string name="device_maintainers_title">Devices and Maintainers</string>
-    <string name="device_maintainers_title_summary">List of devices and their crDroid ROM maintainers</string>
+    <string name="device_maintainers_title_summary">List of devices and maintainers</string>
     <string name="device_samsung_ariesve">Galaxy S Plus</string>
     <string name="device_samsung_ariesve_summary">I9001 \nMaintainer - K_TECH</string>
     <string name="device_samsung_ancora">Galaxy W</string>
